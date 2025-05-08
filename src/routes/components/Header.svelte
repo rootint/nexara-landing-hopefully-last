@@ -41,7 +41,7 @@
 				<!-- <button class="lang-switch-btn" on:click={switchLanguage} title="Switch Language">
 					{targetLanguageCode}
 				</button> -->
-				<div style="width: 4rem" />
+				<!-- <div style="width: 4rem" /> -->
 				<!-- End Language Switch Button -->
 
 				<a href={getLocale() === 'ru' ? 'https://app.nexara.ru' : 'https://app.nexara.ru/en'}>

@@ -14,7 +14,7 @@
 	</main>
 </div>
 <footer>
-	<Footer></Footer>
+	<!-- <Footer></Footer> -->
 </footer>
 
 <style>

@@ -43,7 +43,7 @@
 					<p class="option-text">{m.pricing_flexible_point7()}</p>
 				</div>
 			</div>
-			<a class="try-button" href="https://app.nexara.ru/"
+			<a class="try-button" href="https://app.nexara.ru/en/"
 				><div class="button-row">
 					<p class="btn-text">{m.pricing_flexible_button()}</p>
 					<!-- <ArrowUpRight color="#111" size="20"></ArrowUpRight> -->
