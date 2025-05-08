@@ -38,9 +38,9 @@
 				>
 				<div style="width: 4rem" />
 				<!-- Fancy Language Switch Button -->
-				<button class="lang-switch-btn" on:click={switchLanguage} title="Switch Language">
+				<!-- <button class="lang-switch-btn" on:click={switchLanguage} title="Switch Language">
 					{targetLanguageCode}
-				</button>
+				</button> -->
 				<div style="width: 4rem" />
 				<!-- End Language Switch Button -->
 
