@@ -1,6 +1,6 @@
 {
     "$schema": "https://inlang.com/schema/inlang-message-format",
-    "meta_nexara": "Nexara - a fast and reliable API for speech transcription. Supports most audio and video formats, easy integration, high accuracy, low price.",
+    "meta_nexara": "Nexara - Effortless speech-to-text for your no-code workflows. Supports most audio and video formats, easy integration, high accuracy, low price.",
     "header_docs": "Docs",
     "header_login": "Log In",
     "hero_minutes": "Processing over a million minutes monthly",

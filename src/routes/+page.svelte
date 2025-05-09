@@ -18,12 +18,12 @@
 	<meta name="description" content={m.meta_nexara()} />
 	<meta
 		name="keywords"
-		content="Транскрибация речи, API для транскрибации, российский API, транскрибация, перевод речи в текст, видео в текст"
+		content="Speech-to-text, Speech-to-text API, automations, n8n, transcription, transcription API, transcription service, transcription software, transcription software for automations, transcription software for n8n"
 	/>
 	<meta property="og:title" content="Nexara" />
 	<meta
 		property="og:description"
-		content="Быстрый, доступный API для транскрибации речи с высокой точностью. Поддержка файлов размером до 1 ГБ."
+		content="Effortless speech-to-text for your no-code workflows. Easy integration with n8n."
 	/>
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://www.nexara.ru/" />
